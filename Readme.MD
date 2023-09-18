@@ -1,3 +1,6 @@
+# Bu proje Ratelimiting Preview Versiyonunu kullandığı için çalışmaz durumdadır.Microsoft artık built-in olarak sunuyor ve herhangi bir package yüklemeden kullanılabiliyor.
+
+
 ## Rate Limiter AspNet 7
 
 Microsoft.AspNetCore.RateLimiting ' i projemize dahil edelim.
